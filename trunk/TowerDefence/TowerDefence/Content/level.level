@@ -1,0 +1,32 @@
+<Level>
+  <Layout Width="12" Height="12">
+    0 0 0 0 0 0 0 0 0 0 1 0
+    0 0 0 1 1 1 1 0 0 0 1 0
+    0 0 0 1 0 0 1 0 0 0 1 0
+    0 0 0 1 0 0 1 0 0 0 1 0
+    0 0 0 1 0 0 1 0 1 1 1 0
+    1 1 1 1 0 0 1 0 1 0 0 0
+    0 0 0 0 0 0 1 0 1 0 0 0
+    0 0 0 0 0 0 1 0 1 1 1 0
+    0 1 1 1 1 1 1 0 0 0 1 0
+    0 1 0 0 0 0 0 0 0 0 1 0
+    0 1 1 1 1 1 1 1 1 1 1 0
+    0 0 0 0 0 0 0 0 0 0 0 0
+  </Layout>
+  
+  <Waypoints>
+    <Waypoint X="16" Y="176" />
+    <Waypoint X="112" Y="176" />
+    <Waypoint X="112" Y="48" />
+    <Waypoint X="208" Y="48" />
+    <Waypoint X="208" Y="272" />
+    <Waypoint X="48" Y="272" />
+    <Waypoint X="48" Y="336" />
+    <Waypoint X="336" Y="336" />
+    <Waypoint X="336" Y="240" />
+    <Waypoint X="272" Y="240" />
+    <Waypoint X="272" Y="144" />
+    <Waypoint X="336" Y="144" />
+    <Waypoint X="336" Y="16" />
+  </Waypoints>
+</Level>

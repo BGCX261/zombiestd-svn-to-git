@@ -1,0 +1,65 @@
+<Level>
+  <Layout Width="18" Height="18">
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 
+0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 1 1 0 1 1 1 1 1 1 0 0 
+0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+</Layout>
+<Waypoints><Waypoint X="16" Y="48" />
+<Waypoint X="80" Y="48" />
+<Waypoint X="48" Y="48" />
+<Waypoint X="112" Y="48" />
+<Waypoint X="144" Y="48" />
+<Waypoint X="144" Y="80" />
+<Waypoint X="144" Y="112" />
+<Waypoint X="144" Y="144" />
+<Waypoint X="112" Y="144" />
+<Waypoint X="112" Y="176" />
+<Waypoint X="112" Y="208" />
+<Waypoint X="144" Y="208" />
+<Waypoint X="176" Y="208" />
+<Waypoint X="208" Y="208" />
+<Waypoint X="240" Y="208" />
+<Waypoint X="272" Y="208" />
+<Waypoint X="272" Y="176" />
+<Waypoint X="272" Y="144" />
+<Waypoint X="272" Y="112" />
+<Waypoint X="304" Y="112" />
+<Waypoint X="336" Y="112" />
+<Waypoint X="368" Y="112" />
+<Waypoint X="368" Y="176" />
+<Waypoint X="368" Y="144" />
+<Waypoint X="368" Y="208" />
+<Waypoint X="368" Y="240" />
+<Waypoint X="368" Y="272" />
+<Waypoint X="368" Y="304" />
+<Waypoint X="368" Y="336" />
+<Waypoint X="368" Y="368" />
+<Waypoint X="336" Y="368" />
+<Waypoint X="336" Y="400" />
+<Waypoint X="336" Y="432" />
+<Waypoint X="336" Y="464" />
+<Waypoint X="368" Y="464" />
+<Waypoint X="400" Y="464" />
+<Waypoint X="432" Y="464" />
+<Waypoint X="432" Y="496" />
+<Waypoint X="464" Y="496" />
+<Waypoint X="496" Y="496" />
+<Waypoint X="528" Y="496" />
+<Waypoint X="560" Y="496" />
+</Waypoints>
+</Level>
